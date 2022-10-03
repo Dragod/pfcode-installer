@@ -1,0 +1,593 @@
+{
+    "packages":{
+        "editors": [
+            {
+                "name": "Sublime Text 4",
+                "package": "sublimetext4",
+                "install": false
+            },
+            {
+                "name": "Sublime Text 3",
+                "package": "sublimetext3.app",
+                "install": false
+            },
+            {
+                "name": "Atom",
+                "package": "atom",
+                "install": false
+            },
+            {
+                "name":"Notepad++",
+                "package": "notepadplusplus",
+                "install": false
+            },
+            {
+                "name": "Brackets",
+                "package": "brackets",
+                "install": false
+            },
+            {
+                "name":"WebStorm",
+                "package": "webstorm",
+                "install": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "package": "vscode.install",
+                "install": false
+            },
+            {
+                "name": "VS Community 2022",
+                "package": "visualstudio2022community",
+                "install": false
+            },
+            {
+                "name" : "PHPStorm",
+                "package" : "phpstorm",
+                "install" : false
+            },
+            {
+                "name": "IntelliJ IDEA Community",
+                "package": "intellijidea-community",
+                "install": false
+            },
+            {
+                "name": "PyCharm",
+                "package": "pycharm",
+                "install": false
+            }
+        ],
+        "browsers": [
+            {
+                "name": "Google Chrome",
+                "package": "googlechrome",
+                "install": false
+            },
+            {
+                "name": "Firefox",
+                "package": "firefox",
+                "install": false
+            },
+            {
+                "name": "Opera",
+                "package": "opera",
+                "install": false
+            },
+            {
+                "name": "Microsoft Edge",
+                "package": "microsoft-edge",
+                "install": false
+            },
+            {
+                "name": "Brave",
+                "package": "brave",
+                "install": false
+            },
+            {
+                "name": "Tor Browser",
+                "package": "tor-browser",
+                "install": false
+            },
+            {
+                "name": "LibreWolf",
+                "package": "librewolf",
+                "install": false
+            }
+        ],
+        "terminals": [
+            {
+                "name": "Cmder",
+                "package": "cmder",
+                "install": false
+            },
+            {
+                "name": "Windows Terminal",
+                "package": "microsoft-windows-terminal",
+                "install": false
+            },
+            {
+                "name": "Hyper",
+                "package": "hyper",
+                "install": false
+            },
+            {
+                "name": "ConEmu",
+                "package": "conemu",
+                "install": false
+            },
+            {
+                "name": "Git Bash",
+                "package": "git.install",
+                "install": false
+            },
+            {
+                "name": "NuShell",
+                "package": "nushell",
+                "install": false
+            },
+            {
+                "name": "Wezterm",
+                "package": "wezterm",
+                "install": false
+            },
+            {
+                "name": "Alacritty",
+                "package": "alacritty",
+                "install": false
+            }
+        ],
+        "cli":[
+            {
+                "name": "AWS CLI",
+                "package": "awscli",
+                "install": false
+            },
+            {
+                "name": "Azure CLI",
+                "package": "azure-cli",
+                "install": false
+            },
+            {
+                "name": "Docker CLI",
+                "package": "docker-cli",
+                "install": false
+            },
+            {
+                "name": "Heroku CLI",
+                "package": "heroku-cli",
+                "install": false
+            },
+            {
+                "name": "MongoDB Atlas CLI",
+                "package": "mongodb-atlas",
+                "install": false
+            },
+            {
+                "name": "MongoDB CLI",
+                "package": "mongodb-cli",
+                "install": false
+            }
+        ],
+        "devTools": [
+            {
+                "name": "Git",
+                "package": "git",
+                "install": false
+            },
+            {
+                "name": "Git Kraken",
+                "package": "gitkraken",
+                "install": false
+            },
+            {
+                "name": "GitHub Desktop",
+                "package": "github-desktop",
+                "install": false
+            },
+            {
+                "name": "Postman",
+                "package": "postman",
+                "install": false
+            },
+            {
+                "name": "Docker Desktop",
+                "package": "docker-desktop",
+                "install": false
+            },
+            {
+                "name": "Node.js",
+                "package": "nodejs.install",
+                "install": false
+            },
+            {
+                "name": "MongoDB",
+                "package": "mongodb",
+                "install": false
+            },
+            {
+                "name": "MySQL",
+                "package": "mysql.installer",
+                "install": false
+            },
+            {
+                "name": "Python 3",
+                "package": "python3",
+                "install": false
+            },
+            {
+                "name": "Jdk",
+                "package": "jdk11",
+                "install": false
+            },
+            {
+                "name": "Jre",
+                "package": "javaruntime",
+                "install": false
+            },
+            {
+                "name": "MongoDB Compass",
+                "package": "mongodb-compass",
+                "install": false
+            },
+            {
+                "name": "Insomnia",
+                "package": "insomnia-rest-api-client",
+                "install": false
+            },
+            {
+                "name": "VirtualBox",
+                "package": "virtualbox",
+                "install": false
+            },
+            {
+                "name": "AutoHotkey",
+                "package": "autohotkey",
+                "install": false
+            },
+            {
+                "name": "Rust",
+                "package": "rustup.install",
+                "install": false
+            },
+            {
+                "name": "Powershell Core",
+                "package": "powershell-core",
+                "install": false
+            },
+            {
+                "name": "Ms Build Tools 2022",
+                "package": "visualstudio2022buildtools",
+                "install": false
+            },
+            {
+                "name": "Nvm",
+                "package": "nvm",
+                "install": false
+            },
+            {
+                "name": "Sublime Merge",
+                "package": "sublimemerge",
+                "install": false
+            },
+            {
+                "name": "JetBrains Toolbox",
+                "package": "jetbrainstoolbox",
+                "install": false
+            }
+
+        ],
+        "desktopApps": [
+            {
+                "name": "Discord",
+                "package": "discord",
+                "install": false
+            },
+            {
+                "name": "Spotify",
+                "package": "spotify",
+                "install": false
+            },
+            {
+                "name": "Slack",
+                "package": "slack",
+                "install": false
+            },
+            {
+                "name": "Zoom",
+                "package": "zoom",
+                "install": false
+            },
+            {
+                "name": "Skype",
+                "package": "skype",
+                "install": false
+            },
+            {
+                "name": "WhatsApp Desktop",
+                "package": "whatsapp",
+                "install": false
+            },
+            {
+                "name": "Telegram Desktop",
+                "package": "telegram.install",
+                "install": false
+            },
+            {
+                "name": "Signal Desktop",
+                "package": "signal",
+                "install": false
+            },
+            {
+                "name": "Element Desktop",
+                "package": "element-desktop",
+                "install": false
+            },
+            {
+                "name": "TeamViewer",
+                "package": "teamviewer",
+                "install": false
+            },
+            {
+                "name": "Microsoft Teams",
+                "package": "microsoft-teams",
+                "install": false
+            },
+            {
+                "name": "Office 365 Business",
+                "package": "office365business",
+                "install": false
+            },
+            {
+                "name" : "Adobe Creative Cloud",
+                "package": "adobe-creative-cloud",
+                "install": false
+            },
+            {
+                "name": "Thunderbird",
+                "package": "thunderbird",
+                "install": false
+            },
+            {
+                "name": "Betterbird",
+                "package": "betterbird",
+                "install": false
+            }
+        ],
+        "utils": [
+            {
+                "name": "7-Zip",
+                "package": "7zip",
+                "install": false
+            },
+            {
+                "name": "Keypirinha",
+                "package": "keypirinha",
+                "install": false
+            },
+            {
+                "name": "Everything",
+                "package": "everything",
+                "install": false
+            },
+            {
+                "name": "EverythingPowerToys",
+                "package": "everythingpowertoys",
+                "install": false
+            },
+            {
+                "name": "Everything Toolbar",
+                "package": "everythingtoolbar",
+                "install": false
+            },
+            {
+                "name": "Vlc",
+                "package": "vlc",
+                "install": false
+            },
+            {
+                "name": "Mpv",
+                "package": "mpv",
+                "install": false
+            },
+            {
+                "name": "WinDirStat",
+                "package": "windirstat",
+                "install": false
+            },
+            {
+                "name": "WinMerge",
+                "package": "winmerge",
+                "install": false
+            },
+            {
+                "name": "WinRAR",
+                "package": "winrar",
+                "install": false
+            },
+            {
+                "name": "WinSCP",
+                "package": "winscp.install",
+                "install": false
+            },
+            {
+                "name": "ShareX",
+                "package": "sharex",
+                "install": false
+            },
+            {
+                "name": "Inkscape",
+                "package": "inkscape",
+                "install": false
+            },
+            {
+                "name": "Gimp",
+                "package": "gimp",
+                "install": false
+            },
+            {
+                "name": "SyncThing",
+                "package": "syncthing",
+                "install": false
+            },
+            {
+                "name": "Sumatra PDF",
+                "package": "sumatrapdf",
+                "install": false
+            },
+            {
+                "name": "VNC Viewer",
+                "package": "vnc-viewer",
+                "install": false
+            },
+            {
+                "name": "Libre Office",
+                "package": "libreoffice-fresh",
+                "install": false
+            },
+            {
+                "name": "Obsidian",
+                "package": "obsidian",
+                "install": false
+            },
+            {
+                "name": "Corsair iCUE",
+                "package": "icue",
+                "install": false
+            },
+            {
+                "name": "Stream Deck",
+                "package": "streamdeck",
+                "install": false
+            },
+            {
+                "name": "Logitech Lg Hub",
+                "package": "lghub",
+                "install": false
+            },
+            {
+                "name": "Pandoc",
+                "package": "pandoc",
+                "install": false
+            }
+        ],
+        "vpns": [
+            {
+                "name": "OpenVPN",
+                "package": "openvpn",
+                "install": false
+            },
+            {
+                "name": "WireGuard",
+                "package": "wireguard",
+                "install": false
+            },
+            {
+                "name": "Tailscale",
+                "package": "tailscale",
+                "install": false
+            }
+        ],
+        "gaming": [
+            {
+                "name": "Steam",
+                "package": "steam-client",
+                "install": false
+            },
+            {
+                "name": "Epic Games",
+                "package": "epicgameslauncher",
+                "install": false
+            },
+            {
+                "name": "Ubisoft Connect",
+                "package": "ubisoft-connect",
+                "install": false
+            },
+            {
+                "name": "Gog Galaxy",
+                "package": "goggalaxy",
+                "install": false
+            },
+            {
+                "name": "Origin",
+                "package": "origin",
+                "install": false
+            },
+            {
+                "name": "Bethesda Launcher",
+                "package": "bethesdanet",
+                "install": false
+            },
+            {
+                "name": "Playnite",
+                "package": "playnite",
+                "install": false
+            }
+        ],
+        "passwordManagers": [
+            {
+                "name": "Bitwarden",
+                "package": "bitwarden",
+                "install": false
+            },
+            {
+                "name": "KeePass 2",
+                "package": "keepass",
+                "install": false
+            },
+            {
+                "name": "KeePassXC",
+                "package": "keepassxc",
+                "install": false
+            },
+            {
+                "name": "KeeWeb",
+                "package": "keeweb",
+                "install": false
+            },
+            {
+                "name": "1Password",
+                "package": "1password",
+                "install": false
+            },
+            {
+                "name": "LastPass",
+                "package": "lastpass",
+                "install": false
+            }
+        ],
+        "networking": [
+            {
+                "name": "Wireshark",
+                "package": "wireshark",
+                "install": false
+            },
+            {
+                "name": "Nmap",
+                "package": "nmap",
+                "install": false
+            },
+            {
+                "name": "WinDirStat",
+                "package": "windirstat",
+                "install": false
+            },
+            {
+                "name": "Angry IP Scanner",
+                "package": "angryip",
+                "install": false
+            },
+            {
+                "name": "WinPcap",
+                "package": "winpcap",
+                "install": false
+            },
+            {
+                "name": "USBPcap",
+                "package": "usbpcap",
+                "install": false
+            }
+        ]
+
+    }
+}
