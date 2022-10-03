@@ -59,5 +59,13 @@ In ```config.json``` you need use ```install: true```
 ]
 ```
 
+# CLI installer
+
+If you don't like GUI, there is also a CLI installer
+
+```PowerShell
+.\installer-cli.ps1
+```
+
 
 
