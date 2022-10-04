@@ -6,7 +6,7 @@ A simple Windows GUI to install software on a new machine or VM, built with powe
 
 There is 100+ packages to choose from.
 
-The app leverage the package manager chocolatey to find and install packages.
+The app leverage the package manager chocolatey to find and install applications.
 
 There is a standalone ```.exe``` if you trust the code behind it, if you don't you need to build it for yourself, as most antivirus will throw a red flag as a virus.
 
